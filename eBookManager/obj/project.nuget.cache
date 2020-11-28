@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "L8QOmChUldVwjbLpcy7mXVgsxIek2fRFKE297NrL4Dig0E7pQ/uusyt1kbsdbUjg/VxadNpELa8K+QM5tISAzw==",
+  "dgSpecHash": "n6d4UUB2OlqViDU2CPxHAGNvC6UNmukikb1czQR1whdp9Wep0ngtIBf4KosuqFkEMQOfpfYr0Rq1rCFkcj/WOQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\kk\\source\\repos\\eBookManager\\eBookManager\\eBookManager.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\kk\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\kk\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
   ],
   "logs": []

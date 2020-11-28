@@ -16,3 +16,4 @@ C:\Users\kk\source\repos\eBookManager\eBookManager\obj\Debug\netcoreapp3.1\eBook
 C:\Users\kk\source\repos\eBookManager\eBookManager\obj\Debug\netcoreapp3.1\eBookManager.dll
 C:\Users\kk\source\repos\eBookManager\eBookManager\obj\Debug\netcoreapp3.1\eBookManager.pdb
 C:\Users\kk\source\repos\eBookManager\eBookManager\obj\Debug\netcoreapp3.1\eBookManager.genruntimeconfig.cache
+C:\Users\kk\source\repos\eBookManager\eBookManager\bin\Debug\netcoreapp3.1\eBookManager.Helper.dll
