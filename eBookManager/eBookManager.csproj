@@ -6,4 +6,14 @@
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\eBookManager.Engine\eBookManager.Engine.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="ImportBooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+
 </Project>

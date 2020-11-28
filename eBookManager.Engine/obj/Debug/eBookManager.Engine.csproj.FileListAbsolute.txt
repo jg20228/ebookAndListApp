@@ -1,0 +1,6 @@
+C:\Users\kk\source\repos\eBookManager\eBookManager.Engine\obj\Debug\eBookManager.Engine.csprojAssemblyReference.cache
+C:\Users\kk\source\repos\eBookManager\eBookManager.Engine\obj\Debug\eBookManager.Engine.csproj.CoreCompileInputs.cache
+C:\Users\kk\source\repos\eBookManager\eBookManager.Engine\bin\Debug\eBookManager.Engine.dll
+C:\Users\kk\source\repos\eBookManager\eBookManager.Engine\bin\Debug\eBookManager.Engine.pdb
+C:\Users\kk\source\repos\eBookManager\eBookManager.Engine\obj\Debug\eBookManager.Engine.dll
+C:\Users\kk\source\repos\eBookManager\eBookManager.Engine\obj\Debug\eBookManager.Engine.pdb

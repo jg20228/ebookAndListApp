@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace eBookManager.Engine
 {
-    public class Class1
+    class DocumentEngine
     {
     }
 }

@@ -4,6 +4,16 @@
     "C:\\Users\\kk\\source\\repos\\eBookManager\\eBookManager\\eBookManager.csproj": {}
   },
   "projects": {
+    "C:\\Users\\kk\\source\\repos\\eBookManager\\eBookManager.Engine\\eBookManager.Engine.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kk\\source\\repos\\eBookManager\\eBookManager.Engine\\eBookManager.Engine.csproj",
+        "projectName": "eBookManager.Engine",
+        "projectPath": "C:\\Users\\kk\\source\\repos\\eBookManager\\eBookManager.Engine\\eBookManager.Engine.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
     "C:\\Users\\kk\\source\\repos\\eBookManager\\eBookManager\\eBookManager.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -30,7 +40,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\kk\\source\\repos\\eBookManager\\eBookManager.Engine\\eBookManager.Engine.csproj": {
+                "projectPath": "C:\\Users\\kk\\source\\repos\\eBookManager\\eBookManager.Engine\\eBookManager.Engine.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -41,6 +55,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
