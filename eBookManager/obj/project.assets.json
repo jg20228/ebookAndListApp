@@ -19,6 +19,15 @@
         "runtime": {
           "bin/placeholder/eBookManager.Engine.dll": {}
         }
+      },
+      "eBookManager.Helper/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/eBookManager.Helper.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/eBookManager.Helper.dll": {}
+        }
       }
     }
   },
@@ -71,12 +80,18 @@
       "type": "project",
       "path": "../eBookManager.Engine/eBookManager.Engine.csproj",
       "msbuildProject": "../eBookManager.Engine/eBookManager.Engine.csproj"
+    },
+    "eBookManager.Helper/1.0.0": {
+      "type": "project",
+      "path": "../eBookManager.Helper/eBookManager.Helper.csproj",
+      "msbuildProject": "../eBookManager.Helper/eBookManager.Helper.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "System.ValueTuple >= 4.5.0",
-      "eBookManager.Engine >= 1.0.0"
+      "eBookManager.Engine >= 1.0.0",
+      "eBookManager.Helper >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -112,6 +127,9 @@
           "projectReferences": {
             "C:\\Users\\kk\\source\\repos\\eBookManager\\eBookManager.Engine\\eBookManager.Engine.csproj": {
               "projectPath": "C:\\Users\\kk\\source\\repos\\eBookManager\\eBookManager.Engine\\eBookManager.Engine.csproj"
+            },
+            "C:\\Users\\kk\\source\\repos\\eBookManager\\eBookManager.Helper\\eBookManager.Helper.csproj": {
+              "projectPath": "C:\\Users\\kk\\source\\repos\\eBookManager\\eBookManager.Helper\\eBookManager.Helper.csproj"
             }
           }
         }

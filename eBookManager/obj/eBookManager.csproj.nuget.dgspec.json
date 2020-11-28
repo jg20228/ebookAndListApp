@@ -14,6 +14,16 @@
         "net461": {}
       }
     },
+    "C:\\Users\\kk\\source\\repos\\eBookManager\\eBookManager.Helper\\eBookManager.Helper.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kk\\source\\repos\\eBookManager\\eBookManager.Helper\\eBookManager.Helper.csproj",
+        "projectName": "eBookManager.Helper",
+        "projectPath": "C:\\Users\\kk\\source\\repos\\eBookManager\\eBookManager.Helper\\eBookManager.Helper.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
     "C:\\Users\\kk\\source\\repos\\eBookManager\\eBookManager\\eBookManager.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -43,6 +53,9 @@
             "projectReferences": {
               "C:\\Users\\kk\\source\\repos\\eBookManager\\eBookManager.Engine\\eBookManager.Engine.csproj": {
                 "projectPath": "C:\\Users\\kk\\source\\repos\\eBookManager\\eBookManager.Engine\\eBookManager.Engine.csproj"
+              },
+              "C:\\Users\\kk\\source\\repos\\eBookManager\\eBookManager.Helper\\eBookManager.Helper.csproj": {
+                "projectPath": "C:\\Users\\kk\\source\\repos\\eBookManager\\eBookManager.Helper\\eBookManager.Helper.csproj"
               }
             }
           }
