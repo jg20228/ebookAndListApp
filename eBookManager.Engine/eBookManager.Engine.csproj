@@ -51,6 +51,7 @@
     <Compile Include="Document.cs" />
     <Compile Include="DocumentEngine.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StorageSpace.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

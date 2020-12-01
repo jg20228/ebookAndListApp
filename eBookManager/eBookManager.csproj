@@ -17,9 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Update="ImportBooks.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Update="ImportBooks.cs" />
   </ItemGroup>
 
 </Project>

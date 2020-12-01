@@ -18,7 +18,16 @@
       "restore": {
         "projectUniqueName": "C:\\Users\\kk\\source\\repos\\eBookManager\\eBookManager.Helper\\eBookManager.Helper.csproj",
         "projectName": "eBookManager.Helper",
-        "projectPath": "C:\\Users\\kk\\source\\repos\\eBookManager\\eBookManager.Helper\\eBookManager.Helper.csproj"
+        "projectPath": "C:\\Users\\kk\\source\\repos\\eBookManager\\eBookManager.Helper\\eBookManager.Helper.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\kk\\source\\repos\\eBookManager\\eBookManager.Engine\\eBookManager.Engine.csproj": {
+                "projectPath": "C:\\Users\\kk\\source\\repos\\eBookManager\\eBookManager.Engine\\eBookManager.Engine.csproj"
+              }
+            }
+          }
+        }
       },
       "frameworks": {
         "net461": {}

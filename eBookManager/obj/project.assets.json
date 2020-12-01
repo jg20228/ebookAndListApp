@@ -31,6 +31,9 @@
       },
       "eBookManager.Helper/1.0.0": {
         "type": "project",
+        "dependencies": {
+          "eBookManager.Engine": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/eBookManager.Helper.dll": {}
         },
